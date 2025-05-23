@@ -12,3 +12,4 @@ C:\Users\SMN INGÁ - 03\Desktop\Exercicios4\obj\Debug\net9.0\refint\Exercicios4.
 C:\Users\SMN INGÁ - 03\Desktop\Exercicios4\obj\Debug\net9.0\Exercicios4.pdb
 C:\Users\SMN INGÁ - 03\Desktop\Exercicios4\obj\Debug\net9.0\Exercicios4.genruntimeconfig.cache
 C:\Users\SMN INGÁ - 03\Desktop\Exercicios4\obj\Debug\net9.0\ref\Exercicios4.dll
+C:\Users\SMN INGÁ - 03\Desktop\Exercicios4\obj\Debug\net9.0\Exercicios4.sourcelink.json
