@@ -52,8 +52,8 @@ namespace Exercicios5.Exercicio5
             }
 
             Console.Write("Digite o desconto percentual do produto: ");
-            double descontoPercentual;
-            while (!double.TryParse(Console.ReadLine(), out descontoPercentual) || descontoPercentual < 0 || descontoPercentual > 100)
+            double descontoPercentual = double.Parse(Console.ReadLine());
+            while (descontoPercentual < 0 || descontoPercentual > 100)
             {
                 Console.WriteLine("Desconto inválido. O desconto deve ser entre 0 e 100.");
                 Console.Write("Digite o desconto percentual do produto: ");
